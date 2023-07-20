@@ -15,7 +15,7 @@ A well thought out and well written test plan allows you to quickly and thorough
   - Mark task as completed
   - Check notifications
 
-#### Testing scenario based on functionalities
+### 1c. Testing scenario based on functionalities
 | Funcionality             |  Scenario   |
 | ----------------- | ------------------------------------------------------------------ |
 | User login and registration | Check users can register and logged users have access to their task list and all app actions |
