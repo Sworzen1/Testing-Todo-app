@@ -50,7 +50,7 @@ We will use TDD method to write unit tests. We write a piece of the test and cre
 
 We need to test every simple component like:
 
-- `<LoginForm />`, `< TasksList />`
+- `<LoginForm />`, `<TasksList />`
 
 and methods like:
 
