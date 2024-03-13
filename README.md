@@ -54,7 +54,7 @@ We need to test every simple component like:
 
 and methods like:
 
-- create, update, delete task,
+- create, update, delete task
 
 ### EXAMPLE:
 
